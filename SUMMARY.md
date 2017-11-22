@@ -2,11 +2,10 @@
 
 ## 前端
 
-* [介绍](README.md)
+* [概要](README.md)
 * [Javascript](userguide/userguide.md)
 * [C\#](videos/videos.md)
 * [SQL](end/SUMMARY.md)
-* [Python](python.md)
 
 ## 后端
 
@@ -14,13 +13,13 @@
   * [1.注册账号](products/register.md)
   * [2.登录账号](products/login.md)
 * [NodeJS](quickstart/quickstart.md)
-* Python
+* [Python](products/python.md)
 
 ## 数据库
 
-* PostgreSQL
-* Mysql
-* Mongodb
+* [PostgreSQL](shu-ju-ku/postgresql.md)
+* [Mysql](shu-ju-ku/mysql.md)
+* [Mongodb](shu-ju-ku/mongodb.md)
 
 ## 系统及工具
 
