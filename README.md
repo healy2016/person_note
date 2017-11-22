@@ -1,6 +1,14 @@
-# My Awesome Book1112222333347777744555544
+#  Gistoyou简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.222222222555555
+# 本文档为北京集思图友地理大数据平台
 
-66666666666666677777777777777777777000000001111222244465556677788999999000099999
+# 
+
+# 本文档使用众包方式，基于Git进行版本控制和多人协同。如果想参与到Gistoyou平台文档编写中来，请与我们邮件联系 support@gistoyou.com 。
+
+# 
+
+# 
+
+
 
