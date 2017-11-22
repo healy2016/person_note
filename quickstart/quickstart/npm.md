@@ -13,5 +13,12 @@
 ### 安装cnpm直接使用淘宝镜像：必须是全局安装-g
 > * npm --registry https://registry.npm.taobao.org install -g cnpm
 
+### gitbook编译路径输出
+> * npm --registry https://registry.npm.taobao.org install -g cnpm
+
+
+
+
+
 
 
