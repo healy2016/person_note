@@ -4,8 +4,7 @@
 
 * [概要](README.md)
 * [Javascript](userguide/userguide.md)
-* [C\#](videos/videos.md)
-* [SQL](end/SUMMARY.md)
+* Vue
 
 ## 后端
 
@@ -14,6 +13,17 @@
   * [2.登录账号](products/login.md)
 * [NodeJS](quickstart/quickstart.md)
 * [Python](products/python.md)
+* [C\#](videos/videos.md)
+
+
+
+## 系统及工具
+
+* [Linux](questions/questions.md)
+* [Jenkins](questions/jenkins.md)
+* gitbook
+* HAProxy
+* Bucardo
 
 ## 数据库
 
@@ -21,8 +31,4 @@
 * [Mysql](shu-ju-ku/mysql.md)
 * [Mongodb](shu-ju-ku/mongodb.md)
 
-## 系统及工具
-
-* [Linux](questions/questions.md)
-* [Jenkins](questions/jenkins.md)
 
