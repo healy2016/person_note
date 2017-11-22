@@ -8,4 +8,5 @@
 > * npm install XXX --save
 
 ### 使用淘宝镜像的安装方法
-> * npm install XXX --save
+> * npm --registry https://registry.npm.taobao.org install express
+
