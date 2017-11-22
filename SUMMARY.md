@@ -14,8 +14,6 @@
   * [1.注册账号](products/register.md)
   * [2.登录账号](products/login.md)
 * [NodeJS](quickstart/quickstart.md)
-* [1222](python/1222.md)
-* [3333](python/3333.md)
 
 ## 数据库
 
