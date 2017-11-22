@@ -19,11 +19,11 @@
 
 ## 系统及工具
 
-* [Linux](questions/questions.md)
-* [Jenkins](questions/jenkins.md)
+* [Linux](operation-tool/questions.md)
+* [Jenkins](operation-tool/jenkins.md)
 * [gitbook](questions/gitbook.md)
-* HAProxy
-* Bucardo
+* [HAProxy](questions/haproxy.md)
+* [Bucardo](questions/bucardo.md)
 
 ## 数据库
 
