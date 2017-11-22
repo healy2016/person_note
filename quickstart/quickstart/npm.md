@@ -6,3 +6,6 @@
 
 ### 生产环境下的依赖安装
 > * npm install XXX --save
+
+### 使用淘宝镜像的安装方法
+> * npm install XXX --save
