@@ -21,7 +21,7 @@
 
 * [Linux](operation-tool/questions.md)
 * [Jenkins](operation-tool/jenkins.md)
-* [gitbook](questions/gitbook.md)
+* [Gitbook](questions/gitbook.md)
 * [HAProxy](questions/haproxy.md)
 * [Bucardo](questions/bucardo.md)
 
