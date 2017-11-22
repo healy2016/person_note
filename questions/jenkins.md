@@ -17,4 +17,6 @@ Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工
 #### 5.端口被占用
 > * 启动时:java -jar jenkins.war --httpPort=1080
 
+#### 6.web端的配置和API的使用
+
 
