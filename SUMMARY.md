@@ -13,7 +13,8 @@
 * [Java](products/products.md)
   * [1.注册账号](products/register.md)
   * [2.登录账号](products/login.md)
-* [NodeJS](quickstart/quickstart.md)
+* [Node](quickstart/quickstart.md)
+  * [npm](quickstart/quickstart/npm.md)
 * [Python](products/python.md)
 * [C\#](videos/videos.md)
 
