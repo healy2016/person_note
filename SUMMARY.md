@@ -4,9 +4,9 @@
 
 * [概要](README.md)
 * [Javascript](userguide/userguide.md)
-* Vue
-* Echart
-* ArcgisJs
+* [Vue](vue.md)
+* [Echart](echart.md)
+* [ArcgisJs](arcgisjs.md)
 
 ## 后端
 
@@ -27,7 +27,7 @@
 
 ## 数据库
 
-* [PostgreSQL](shu-ju-ku/postgresql.md)
-* [Mysql](shu-ju-ku/mysql.md)
-* [Mongodb](shu-ju-ku/mongodb.md)
+* [PostgreSQL](da/postgresql.md)
+* [Mysql](DataBase/mysql.md)
+* [Mongodb](DataBase/mongodb.md)
 
