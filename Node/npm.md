@@ -16,6 +16,17 @@
 ### gitbook编译路径输出
 > * gitbook build --output=/tmp/gitbook
 
+### pm2 部署工具
+> * gitbook build --output=/tmp/gitbook
+
+
+
+
+
+
+
+
+
 
 
 
