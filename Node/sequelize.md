@@ -5,8 +5,8 @@
 >* sequelize-auto 的使用可以自动生成Model
 >* 必须全局安装 sequelize-auto  pg@6 和 pg-hstore
 
-### sequelize 生成Model 示例
+### sequelize 生成Model示例
 
 >* sequelize-auto -h 60.205.138.237 -d gtyserver -u postgres -x postgres -p 5432  --dialect postgres  -o "./model" -t gty_role -C
->* 
+>* sequelize-auto -o "./models" -d sequelize_auto_test -h localhost -u my_username -p 5432 -x my_password -e postgres
 
