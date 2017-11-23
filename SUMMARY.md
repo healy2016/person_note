@@ -15,6 +15,7 @@
   * [2.登录账号](products/login.md)
 * [Node](Node/Node.md)
   * [npm](Node/npm.md)
+  * [sequelize](Node/sequelize.md)
 * [Python](products/python.md)
 * [C\#](videos/videos.md)
 
