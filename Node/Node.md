@@ -18,3 +18,7 @@ node-pre-gyp ERR! Pre-built binaries not found for v8-debug@0.4.6 and node@4.4.5
 > * nim([node.js调试管理工具](http://www.ddooo.com/softdown/108257.htm))
 
 > * node --inspect server.js 启动服务
+
+> * 最后，在需要的地方写debugger就会停住
+
+
