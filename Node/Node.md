@@ -7,7 +7,7 @@
 ### node-inspect + NIM debugger调试node
 
 > * node-pre-gyp ERR! Tried to download: https://node-inspector.s3.amazonaws.com/debug/v0.4.6/node-v46-linux-x64.tar.gz 
-node-pre-gyp ERR! Pre-built binaries not found for v8-debug@0.4.6 and node@4.4.5 (node-v46 ABI) (falling back to source compile with node-gyp)
+> * node-pre-gyp ERR! Pre-built binaries not found for v8-debug@0.4.6 and node@4.4.5 (node-v46 ABI) (falling back to source compile with node-gyp)
 
 > * node v8.x以上安装 npm install --global node-inspect 会报以上错误
 
