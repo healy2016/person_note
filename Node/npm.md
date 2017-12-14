@@ -17,8 +17,6 @@
 > * npm cache clean
 
 
-npm cache clean
-
 ### gitbook编译路径输出
 > * gitbook build --output=/tmp/gitbook
 
