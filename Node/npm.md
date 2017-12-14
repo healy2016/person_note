@@ -33,9 +33,5 @@ FAQ：
 ![](/assets/QQ图片20171214185706.png)
 > * npm cache verify
 > * cnpm install xxx --save
-
-
-
-
-
+> * 执行以上两步即可
 
