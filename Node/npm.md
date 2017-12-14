@@ -16,7 +16,6 @@
 ### 清空缓存
 > * npm cache verify
 
-
 ### gitbook编译路径输出
 > * gitbook build --output=/tmp/gitbook
 
@@ -28,6 +27,14 @@
 
 ### pm2 重启，停止
 > * pm2 stop [name]   \   pm2 restart [name]
+
+FAQ：
+### 问题1
+![](/assets/QQ图片20171214185706.png)
+> * npm cache verify
+> * cnpm install xxx --save
+
+
 
 
 
