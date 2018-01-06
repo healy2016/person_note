@@ -20,6 +20,7 @@ Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工
 #### 6.web端的配置和API的使用
 
 #### 7.FAQ
+
 #####1)Jenkins中无法启动子进程的解决办法
 > * Q:Process leaked file descriptors. See http://wiki.hudson-ci.org/display/HUDSON/Spawning+processes+from+build for more information
 
