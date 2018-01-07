@@ -1,5 +1,11 @@
 Git使用指南
 
+>* git init
+>* git add README.md
+>* git commit -m "first commit"
+>* git remote add origin  
+>* git@github.com:healy2016/healy2016.github.io.git
+>* git push -u origin master
 
 
 
