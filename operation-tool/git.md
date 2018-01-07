@@ -1,5 +1,8 @@
 Git使用指南
 
+
+
+
 FAQ：
 ####1
 >* Q:Could not open a connection to your authentication agent
