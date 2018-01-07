@@ -10,6 +10,7 @@ FAQ：
 >* A:  
   
   1) ssh-keygen -t rsa  
-  2) 一路回车...
-
+  2) 一路回车...  
+  3) 在GitHub中添加ssh key，title自己命名即可，key就是刚才生成的文件内容  
+  4) ssh-add id_rsa.pub （这个是生成的文件名） 在git中执行即可
 
