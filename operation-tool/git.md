@@ -5,7 +5,7 @@ Git使用指南
 >* git commit -m "first commit"
 >* git remote add origin  
 >* git@github.com:healy2016/healy2016.github.io.git
->* git push -u origin master
+>* git push -u origin master  （提交到主分支中）
 
 
 
