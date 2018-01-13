@@ -10,6 +10,11 @@
 	        "instapaper": false,
 	        "vk": false,
 	        "all": ["weibo"]
-	    }
+	    },
+	    "fontsettings": {
+               "theme": "sepia",
+               "family": "serif",
+               "size":  1
+            }
 	}
 }
